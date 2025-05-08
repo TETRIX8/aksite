@@ -42,7 +42,7 @@ function AskAI({
     const saved = localStorage.getItem('localSettings');
     return saved ? JSON.parse(saved) : {
       apiKey: "",
-      apiUrl: "http://localhost:11434/v1",
+      apiUrl: "https://aksite-kappa.vercel.app/v1",
       model: "gemma3:1b",
       openRouterApiKey: "",
       openRouterApiUrl: "https://openrouter.ai/api/v1",
@@ -58,7 +58,7 @@ function AskAI({
     } else {
       setLocalSettings({
         apiKey: "",
-        apiUrl: "http://localhost:11434/v1",
+        apiUrl: "https://aksite-kappa.vercel.app/v1",
         model: "gemma3:1b",
         openRouterApiKey: "",
         openRouterApiUrl: "https://openrouter.ai/api/v1",
