@@ -165,7 +165,7 @@ function Settings({
                 </p>
                 <input
                   type="text"
-                  value={localSettings.apiUrl || "http://localhost:11434/v1"}
+                  value={localSettings.apiUrl || "https://aksite-kappa.vercel.app/v1"}
                   onChange={(e) => {
                     setLocalSettings({ ...localSettings, apiUrl: e.target.value });
                   }}
