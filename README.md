@@ -1,35 +1,52 @@
-# DeepSite Locally 🚀
+# DeepSite Локально 🚀
 
-![Banner Screenshot](./localconfig.png)
+![Баннер](./localconfig.png)
 
-Run **DeepSite** on your own environment, without depending on Hugging Face!
-Perfect for those who want to customize, integrate, or simply have full control over the platform.
+Запустите **DeepSite** в своей собственной среде, без зависимости от Hugging Face!  
+Идеально подходит для тех, кто хочет настраивать, интегрировать или просто иметь полный контроль над платформой.
+
+> 💡 **DeepSite** — это инструмент для создания сайтов с использованием мощных ИИ технологий, таких как **DeepSeek**. Проект создан командой **A-K Project**.
 
 ---
 
-## How to Run DeepSite Locally
+## Как запустить DeepSite локально
 
-### 1. Clone the repository
+### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/MartinsMessias/deepsite-locally.git
+git clone https://github.com/TETRIX8/aksite  
 ```
 
-### 2. Install dependencies
-(Make sure you have **Node.js** installed)
+### 2. Установите зависимости
+(Убедитесь, что у вас установлен **Node.js** ✅)
 ```bash
 npm install
 ```
 
-### 3. Build the project
+### 3. Соберите проект
 ```bash
 npm run build
 ```
 
-### 4. Start the server
+### 4. Запустите сервер
 ```bash
 npm run start
 ```
 
-### keywords
-deepsite local hosting, deepsite run locally, deepsite self-hosted, how to run deepsite locally, install deepsite on your machine, deepsite local server setup, deepsite offline mode, deepsite localhost tutorial, deploy deepsite on your own server, deepsite self-install guide, how to host deepsite on localhost step-by-step, can deepsite run offline on my computer, deepsite docker installation guide, full guide to running deepsite locally without internet, deepsite self-host vs cloud hosting comparison, deepsite performance tips when running locally, requirements to run deepsite on local environment, best practices for self-hosting deepsite platform, how to speed up deepsite in a local environment, common errors when running deepsite locally and how to fix, deepsite vs other ai site builders local run comparison, top reasons to run deepsite on your own server, is deepsite open-source and local-friendly
+Теперь ваш **DeepSite** будет доступен локально! 🎉
 
+---
+
+### Основные преимущества запуска DeepSite локально:
+
+🌟 **Полный контроль**: Настраивайте и изменяйте платформу под свои нужды.  
+🚀 **Автономный режим**: Работает без подключения к интернету.  
+🛠️ **Интеграция**: Легко интегрируйте с другими инструментами и сервисами.  
+
+---
+
+### Ключевые слова:
+deepsite локальный хостинг, deepsite запуск локально, deepsite автономный режим, как запустить deepsite на своем компьютере, настройка deepsite локально, deepsite localhost пошаговое руководство, deepsite docker установка, требования для запуска deepsite локально, сравнение deepsite локальный хостинг vs облачный хостинг, советы по производительности deepsite, распространенные ошибки и их исправления, создание сайтов с помощью deepseek, проект a-k project.
+
+---
+
+💡 **DeepSite** — это не просто инструмент, это возможность создавать уникальные сайты с помощью технологий искусственного интеллекта, таких как **DeepSeek**, разработанных в рамках проекта **A-K Project**. Запустите его локально и получите полную свободу действий! 🌐✨
